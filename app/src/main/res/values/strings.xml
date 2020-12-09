@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SeniorApp</string>
+    <string name="add_member">Add Member</string>
+    <string name="deceased_members">Deceased Members</string>
+    <string name="masterlist">Masterlist</string>
+    <string name="birthday">Birthday</string>
+    <string name="logout">LOGOUT</string>
+    <string name="todo">TODO</string>
+
+</resources>
